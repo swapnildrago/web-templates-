@@ -1,0 +1,16 @@
+.calci{
+    background-color: red;
+    width: 25%;
+    padding: 20px;
+}
+
+input{
+    width: 100%;
+    padding: 0px;
+    margin-bottom: 10px;
+}
+.btns{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+}
